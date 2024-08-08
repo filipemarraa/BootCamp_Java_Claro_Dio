@@ -2,4 +2,4 @@
 
 ### Ofertado pela: Claro & Dio
 
-## Anotação:
+## Anotações:
