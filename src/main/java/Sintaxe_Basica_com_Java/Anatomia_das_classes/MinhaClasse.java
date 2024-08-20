@@ -1,4 +1,3 @@
-// MinhaClasse.java
 package Sintaxe_Basica_com_Java.Anatomia_das_classes;
 
 public class MinhaClasse {
