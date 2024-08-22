@@ -1,0 +1,11 @@
+Tipo = Byte / Memoria = 1 byte / Valor Minimo = -128
+Tipo = Short / Memoria = 2 byte / Valor Minimo = -32.768
+Tipo = int / Memoria = 4 byte / Valor Minimo = -2.147.483.648
+Tipo = long / Memoria = 8 byte / Valor Minimo = -9.223.372.036.854.774.808
+Tipo = float / Memoria = 4 byte / Valor Minimo = -3,4028E + 38
+Tipo = double / Memoria = 8 byte / Valor Minimo = -1,7976E + 308
+
+INT - O mais comum e o que tem mais compatibilidade
+DOUBLE - O mais comum tambem.
+
+Devs preferem  int e double
