@@ -1,0 +1,22 @@
+JAVA BEANS
+
+- Escrever codigos legiveis que todos da equipe consigam entender e que seja um codigo facil e claro.
+
+* Uma variavel sempre no singular, exceto quando se referir a um array ou coleção.
+
+* Defina um idioma global. Se for ingles use todas em ingles, se for usar PT-BR smp use PT-BR
+
+Não recomendado:
+
+int salMedio (ABREVIACAO)
+String emails = "eu@gmail" (apenas 1 valor ideal seria email)
+String myName (se o idiomar for PT-BR, usar PT_BR)
+
+- Metodos terao que ser nomeados como verbos, atraves de uma mistura entre letras maiusculas e minusculas
+
+Ex:
+somar(int n1, int n2){}
+
+abrirConexao() {}
+
+findById(int id){}

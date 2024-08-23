@@ -1,0 +1,12 @@
+Exemplo de pastas dentro da src:
+
+src - > filipe.marra.primeirasemana
+src -> filipe -> marra -> primeirasemana (PrimeiraSemana.java)
+ou
+src -> filipe -> marra -> segundaasemana (SegundaSemana.java)
+
+para chamar um codigo que esta em uem outro codigo use:
+
+package (caminho)
+no caso
+package filipe.marra.primeirasemana (ESSE CODIGO NA PRIMEIRA LINHA NO CODIGO QUE VC QUER IMPORTAR)
